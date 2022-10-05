@@ -16,7 +16,7 @@ Road2 propose plusieurs grandes familles de fonctionnalités :
 - Administrer le service 
 - etc... 
 
-Ces familles regroupent l'ensemble des fonctionnalités et sont détaillées [ici](./documentation/developers/functionnalities.md).
+Ces familles regroupent l'ensemble des fonctionnalités et sont détaillées [là](./documentation/developers/functionnalities.md).
 
 ## Licence 
 
